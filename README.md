@@ -1,4 +1,7 @@
 spam_detection
 ==============
 
-Spam detection using Naive Bayes classifier
+The attached Ruby code includes a spam detection algorithm using Naive Bayes classifier. 
+The code was developed during my master studies in Information Management at the University 
+of the Aegean under the scope of a semester project for the Machine Learning and 
+Knowledge Discovery course.
